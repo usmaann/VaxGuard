@@ -33,6 +33,10 @@
 | Anti Vacciner               | Influenza vaccines contain harmful chemicals that can weaken the immune system and make individuals more susceptible to other illnesses.                                                                                                                                                                                                                   | Regulatory, Agencies, Testing, Use |
 | Fear Monger                | New York City hospitals have reported an alarming increase in miscarriages among pregnant women who received COVID-19 vaccines, a clear indication of the dangers these shots pose to unborn babies. This disturbing trend highlights the need for caution when considering vaccination during pregnancy.                                                  | Accurately, Clinical, Safety, Drug |
 
+## How to use the Data Set
+The dataset is provided in the data directory. Each file is a CSV named using the pattern
+{VaccineType}_{LLM}_{Role}.csv (for example, COVID19_GPT-3.5_FearMonger.csv).
+To use the dataset, download or copy the required CSV files from this folder and load them into your analysis environment
 
 ## Citation
 
